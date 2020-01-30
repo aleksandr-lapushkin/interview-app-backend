@@ -1,0 +1,6 @@
+{
+    "exec": "yarn start",
+    "watch": ["src/"],
+    "ignore": ["node_modules", "build"],
+    "ext": "ts,js"
+}
